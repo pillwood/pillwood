@@ -1,32 +1,23 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=120&section=header&text=Pillwood's%20GitHub&fontSize=50&fontAlign=70&fontAlignY=30&animation=fadeIn&fontColor=ffffff&stroke=b1bfb1&strokeWidth=2)
 
-# 👋 개발과 인공지능 분야에 관심이 많은 개발자입니다. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Welcom%20to%20PILLWOOD's%20GitHub&size=15&color=00ff00&center=true)](https://git.io/typing-svg)
 
-# 🎮 관심 분야 : **게임 개발 | AI/머신러닝 | Unity, Python, PyTorch**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pillwood&layout=compact&show_icons=true&theme=transparent&bg_color=10001500&title_color=8060af&text_color=bfa0c7)
+### Tech stack 🛠
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/r-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
+
+### Studying... 📚
+<img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 
 
-## 🚀 지금 작업 중인 프로젝트
-- **[AI Vision 프로젝트]**: Super Resolution을 사용해 자동차 번호판 SR복원을 위한 모델 학습 및 실험 진행 중.
 
-## 🛠 기술 스택
-- **프로그래밍 언어**: Python, C#, JavaScript
-- **프레임워크/라이브러리**: Unity, PyTorch
-- **툴**: Git, Visual Studio, Google Colab, Jupyter Notebook
-
-## 📚 학습한 내용
-- **게임 개발**: Unity에서 3D 게임 및 모바일 게임 개발, C#을 사용한 스크립팅
-- **AI/머신러닝**: CNN, GAN, ViT, Object Detection, Pose Estimate, Super Resolution, LLM, Transformer
-
-## 🌱 앞으로 배우고 싶은 것들
-- 자율주행
-- Generative 3D Modeling
-- 더 심층적인 Vision AI 
-- Unreal
-
-## 📬 연락하기
-- 이메일: [jinu41427099@gmail.com]
-- LinkedIn: [LinkedIn Profile Link 기록 예정]
+### Contact 📬
+- Email: [jinu41427099@gmail.com]
+- <a href="jinu41427099@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=red"/></a>
 
 ---
 
-감사합니다! 🙏
+Thanks! 🙏
 
