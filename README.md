@@ -32,19 +32,32 @@ Feel free to explore my work and drop me a message if you're interested in colla
 
 
 ### [SR model Comparison](https://github.com/pillwood/SR-model-Comprison-license-plate-SR-model)
-* 연구실 신입 인턴 과제로서 수행한 프로젝트입니다. *
-* FSRCNN, ESRGAN, SwinIR과 DRCT에 대한 학습과 성능 비교 *
-* 그리고 자동차 번호판 데이터를 통해 학습하여 *
-* 자동차 번호판 복원 작업을 위한 모델을 제작하였습니다. *
+연구실 신입 인턴 과제로서 수행한 프로젝트입니다.
+FSRCNN, ESRGAN, SwinIR과 DRCT에 대한 학습과 성능 비교
+그리고 자동차 번호판 데이터를 통해 학습하여
+자동차 번호판 복원 작업을 위한 모델을 제작하였습니다.
+
+개발 스텍 : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 ### [Predict Genre using movie Poster](https://github.com/pillwood/2024_DeepLearningTheory_MovieClassificationCompetition)
-*딥러닝 이론 및 응용 수업에서 진행한 프로젝트입니다. *
-* 간단한 구조의 CNN을 직접 구성하였으며 *
-* LSTM을 통해 분석한 제목을 합쳐 분석하였습니다. *
+딥러닝 이론 및 응용 수업에서 진행한 프로젝트입니다.
+간단한 구조의 CNN을 직접 구성하였으며
+LSTM을 통해 분석한 제목을 합쳐 분석하였습니다.
 
-### [Project Gamma](https://github.com/pillwood/ProjectGamma)
-*설명*
+개발 스텍 : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
+### [BigData Intro](https://github.com/pillwood/2024_BigdataIntro_FinalAssignment)
+빅데이터 개론 수업에서 진행한 프로젝트입니다.
+심장 관상동맥 질환, 폐암, 공유 자전거 이용자 수에 대한 예측을 수행하였습니다.
+
+개발 스텍 : <img src="https://img.shields.io/badge/r-276DC3?style=flat-square&logo=r&logoColor=white"/>
+
+### [Unity Game Dev](https://github.com/pillwood/VRAR-GameDevBasic)
+VRAR게임개발기초 수업에서 진행한 프로젝트입니다.
+Unity를 사용해 뱀파이어 서바이벌류 게임과 
+우주선 키우기를 합친 게임을 개발하는 것을 목표로 했습니다.
+
+개발 스텍 : <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/> <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 
 ---
 
