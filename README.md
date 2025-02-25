@@ -31,16 +31,20 @@ Feel free to explore my work and drop me a message if you're interested in colla
 
 최근 진행한 작업들입니다. 각 프로젝트의 제목을 클릭하면 해당 레포지토리로 이동합니다.
 
-### [Project Alpha](https://github.com/pillwood/ProjectAlpha)
-*설명*
+### [SR model Comparison]((https://github.com/pillwood/SR-model-Comprison-license-plate-SR-model))
+* 연구실 신입 인턴 과제로서 수행한 프로젝트입니다. *
+* FSRCNN, ESRGAN, SwinIR과 DRCT에 대한 학습과 성능 비교 *
+* 그리고 자동차 번호판 데이터를 통해 학습하여 *
+* 자동차 번호판 복원 작업을 위한 모델을 제작하였습니다. *
 
-### [Project Beta](https://github.com/pillwood/ProjectBeta)
-*설명*
+### [Predict Genre using movie Poster]((https://github.com/pillwood/2024_DeepLearningTheory_MovieClassificationCompetition))
+*딥러닝 이론 및 응용 수업에서 진행한 프로젝트입니다. *
+* 간단한 구조의 CNN을 직접 구성하였으며 *
+* LSTM을 통해 분석한 제목을 합쳐 분석하였습니다. *
 
 ### [Project Gamma](https://github.com/pillwood/ProjectGamma)
 *설명*
 
-> **Tip:** 위 프로젝트들은 예시입니다. 실제 진행한 프로젝트나 포트폴리오에 맞게 수정하세요.
 
 ---
 
