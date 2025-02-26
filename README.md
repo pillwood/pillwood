@@ -76,15 +76,11 @@ Feel free to explore my work and drop me a message if you'd like to collaborate!
 **Visitor Count:** ![Visitor Count](https://profile-counter.glitch.me/pillwood/count.svg)
 
 ---
-## Contact
--https://www.linkedin.com/feed/?trk=onboarding-landing
--jinu41427099@gmail.com
-
 
 ## Contact 📬
 
 - **Email:** [jinu41427099@gmail.com](mailto:jinu41427099@gmail.com)
-
+- **Linkedin:** [https://www.linkedin.com/feed/?trk=onboarding-landing]
 ---
 
 Thanks! 🙏
