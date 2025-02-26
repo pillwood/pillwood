@@ -80,7 +80,7 @@ Feel free to explore my work and drop me a message if you'd like to collaborate!
 ## Contact 📬
 
 - **Email:** [jinu41427099@gmail.com](mailto:jinu41427099@gmail.com)
-- **Linkedin:** [https://www.linkedin.com/feed/?trk=onboarding-landing]
+- **Linkedin:** []
 ---
 
 Thanks! 🙏
